@@ -1,0 +1,25 @@
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    margin-right: 20px;
+    margin-top: 10px;
+    
+}
+.navbar{
+    background-color: darkblue;
+    height: 60px;
+}
+a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+   
+}
+a:hover{
+    color: lightcyan;
+}
+*{
+    margin: 0px;
+}
